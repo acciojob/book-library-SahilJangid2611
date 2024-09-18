@@ -1,45 +1,15 @@
-  body {
-        background-color: #f8f8f8;
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
-    .book-library {
-        max-width: 800px;
-        margin: 20px auto;
-        background-color: #ffffff;
-        padding: 20px;
-        box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    .book {
-        display: flex;
-        margin-bottom: 20px;
-        padding: 10px;
-        
-        background-color: rgb(46, 204, 113);
-        border: 1px solid #e0e0e0;
-        border-radius: 5px;
-    }
-    .book img {
-        width: 100px;
-        height: auto;
-        margin-right: 10px;
-    }
-    .book-details {
-        flex: 1;
-    }
-    .book-title {
-        font-size: 18px;
-        margin: 0;
-    }
-    .book-author {
-        color: #777777;
-        margin: 5px 0;
-    }
-    .book-price {
-        background-color: rgb(46, 204, 113);;
-        color: #ffffff;
-        padding: 5px 10px;
-        border-radius: 5px;
-        display: inline-block;
-    }
+.body{
+            background-color: #f8f8f8;
+
+        }
+
+        .book-library{
+            background-color: #ffffff;
+
+        }
+        .book-author{
+            color:#777777;
+        }
+        .book-price{
+            background-color: #2ecc71;
+        }
