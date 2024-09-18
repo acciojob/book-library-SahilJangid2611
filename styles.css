@@ -2,10 +2,8 @@
             background-color: #f8f8f8;
 
         }
-        .book{
-            color: rgb(46, 204, 113);
-        }
         .book-library{
+            color:rgb(46, 204, 113);
             background-color: #ffffff;
 
         }
@@ -13,6 +11,6 @@
             color:#777777;
         }
         .book-price{
-            color: rgb(46, 204, 113);
+            color:rgb(46, 204, 113);
             background-color: rgb(46, 204, 113);
         }
